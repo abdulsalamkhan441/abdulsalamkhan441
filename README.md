@@ -5,13 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulsalam-khan-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://x.com/abdulsalamk_k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
@@ -65,8 +62,3 @@
 
 ###
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulsalamkhan&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak" />
-</div>
